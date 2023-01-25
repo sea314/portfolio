@@ -49,7 +49,8 @@ WolfEditorのようなゲーム制作支援ツールです。\
 
 - Arts\
 2020/6～2022/3　C#, Unity\
-育成要素のある戦略的なRPGです。
+育成要素のある戦略的なRPGです。\
+AI全般の案と仕様策定と実装、スキル全般の仕様策定と実装を担当しました。
 
 - [FileSYNC](https://github.com/sea314/AndroidFileSYNC)\
 2022/6～現在　Java, Go, C++\
