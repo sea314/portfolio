@@ -38,7 +38,7 @@ C/C++に似ていて扱いやすいため、最近はC/C++よりも好んで使�
 敵を倒して遺伝子を入手し、遺伝子を組み替えて敵のパーツを自身と融合させて戦うRPGです。\
 元々はダンジョン読み込み、暗号化以外は関わらないはずでしたが、人手不足などの理由でダンジョン関連全般、シーン暗転処理、BGM追加など幅広く実装に関わりました。
 
-- [Monsterのダンジョンエディタ](https://trap.jp/post/700/)\
+- Monsterのダンジョンエディタ　[ブログ](https://trap.jp/post/700/)\
 2018/6～2019/7　C++, OpenSiv3d\
 上記のMonsterのダンジョンを作成、編集するためのエディタです。
 個人開発ですが、上記Monsterの仕様変更、機能追加等の影響は受けています。
@@ -55,7 +55,7 @@ GUIでの制作とコードでの制作の両方が出来るツールとして�
 スキルや個性のあるキャラクターをうまく使いこなして敵を倒す戦略的なRPGです。\
 AI全般の案と仕様策定と実装、スキル全般の仕様策定と実装を担当しました。
 
-- [FileSYNC](https://github.com/sea314/AndroidFileSYNC)\
+- FileSYNC　[ブログ](https://trap.jp/post/1759/)　[GitHub](https://github.com/sea314/AndroidFileSYNC)\
 2022/6～現在　Java, Go, C++\
 Androidスマートフォン内のファイルをWindowsPCにWiFi経由で共有できるツールです。
 Java、Go、Androidアプリ開発、インターネット通信の勉強を兼ねています。
